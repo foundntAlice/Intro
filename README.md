@@ -1,2 +1,4 @@
 # Intro
-it is a part of Opensource Software course assignment!
+Hi! 
+I'm Danh Nguyen!
+This is a part of Opensource Software course assignment!
